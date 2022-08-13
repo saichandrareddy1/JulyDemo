@@ -1,0 +1,40 @@
+  498  git config --list
+  499  git init
+  500  mkdir projects
+  501  cd projects/
+  502  touch calci.py
+  503  cd ..
+  504  pwd
+  505  test.py
+  506  touch test.py
+  507  touch readme.md
+  508  touch .gitignore
+  509  git status
+  510  git add *
+  511  git status
+  512  git status
+  513  git commit
+  514  git log
+  515  git branch -M main
+  516  git remote add origin git@github.com:saichandrareddy1/JulyDemo.git
+  517  git push -u origin main
+  518  git status
+  519  git add "projects/calci.py" "test.py" 
+  520  git status
+  521  git commit
+  522  git log
+  523  git push -u origin main
+  524  git statis
+  525  git status
+  526  git branch -b chaitanya
+  527  git branch chaitanya
+  528  git branch
+  529  git checkout chaitanya
+  530  git status
+  531  git add chaitanya/
+  532  git status
+  533  git commit
+  534  git log
+  535  git push -u origin chaitanya
+  536  history
+  537  history > gitcommandas.txt
